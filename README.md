@@ -10,7 +10,7 @@
 
 ![Pink wave](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=&fontSize=0)
 
-### DV300 Projects – 18 November 2025
+### DV300 Projects 2025
 
 | Project            | Description                                               | Tech Stack                                    | Repository |
 |--------------------|-----------------------------------------------------------|-----------------------------------------------|------------|
