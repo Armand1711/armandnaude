@@ -1,7 +1,7 @@
 # Hey, I'm Armand Naude 231181
 
 <div align="center">
-  <img src="https://github.com/Armand1711/Armand1711/blob/main/profile-photo.jpg?raw=true" width="180" style="border-radius:50%; border:5px solid #ff69b4"/>
+  <img src="https://github.com/Armand1711/armandnaude/blob/main/profile-photo.jpg?raw=true" width="180" style="border-radius:50%; border:5px solid #ff69b4"/>
   <br><br>
   <strong>Interactive Development – Open Window 2025</strong>
 </div>
