@@ -6,7 +6,7 @@
   <strong>Interactive Development – Open Window 2025</strong>
 </div>
 
-**Final-year Interactive Development student at Open Window, with a strong focus on both code and UI/UX design.Currently completing my degree and heading into the PGDip programme in 2026.**
+**Final-year Interactive Development student at Open Window, with a strong focus on both code and UI/UX design. Currently completing my degree and heading into the PGDip programme in 2026.**
 
 ![Pink wave](https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=&fontSize=0)
 
